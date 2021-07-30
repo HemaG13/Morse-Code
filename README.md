@@ -28,3 +28,8 @@ blink.
 Step 5: This is the history page of the user which consists of the list of words that user has used previously.
 ![forgot password](https://github.com/HemaG13/Morse-Code/blob/main/Output/history.PNG)
 
+## License
+
+![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)
+
+This Software is licenced under MIT
